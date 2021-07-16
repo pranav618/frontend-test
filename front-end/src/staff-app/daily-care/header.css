@@ -1,0 +1,9 @@
+.drop-down-menu {
+    flex-direction: row;
+
+}
+
+.drop-down-item {
+    color: white;
+    background-color: #343f64;
+}
